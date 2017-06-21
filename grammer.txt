@@ -1,0 +1,144 @@
+jarvis hello
+jarvis start
+jarvis customize tab
+jarvis start customize tab
+jarvis open customize tab
+jarvis close customize tab
+jarvis exit customize tab
+jarvis command
+jarvis show me your command file
+jarvis close command tab
+jarvis exit command tab
+jarvis tell me about yourself
+jarvis describe your self
+jarvis how are you
+jarvis lock
+jarvis lock my pc
+jarvis fuck of
+fuck of jarvis
+jarvis exit
+jarvis close
+jarvis quit
+jarvis whats up
+jarvis are u there
+jarvis dady is home
+jarvis what is god
+jarvis  who is god
+jarvis what is your religion
+jarvis where do you live
+jarvis what is life
+jarvis who created you
+jarvis are you a boy or a girl
+jarvis are you a man or a woman
+jarvis are you a man
+jarvis are you a girl
+jarvis are you a transgender
+jarvis are you straight
+jarvis are you a machine
+jarvis open vlc
+jarviss open video player
+jarvis start vlc
+jarvis start video player
+jarvis pause
+jarvis play
+jarvis forward
+jarvis backward
+jarvis slowmo
+jarvis fastforward
+jarvis volume up
+jarvis increase volume
+jarvis decrease volume
+jarvis volume down
+jarvis close vlc
+jarvis close video player
+jarvis i want to search something
+jarvis something
+jarvis start facebook
+jarvis open facebook
+jarvis start whatsapp
+jarvis open whatsapp
+jarvis start youtube
+jarvis open youtube
+jarvis start instagram
+jarvis open instagram
+jarvis open gmail
+jarvis start gmail
+jarvis check mail
+jarvis start twitter
+jarvis open twitter
+jarvis start cricbuzz
+jarvis open cricbuzz
+jarvis horoscope
+jarvis how is my day
+jarvis weather
+jarvis today's weather
+jarvis weather report
+jarvis start chrome
+jarvis open chrome
+jarvis shift tab
+jarvis go incognito
+jarvis close tab
+jarvis new tab
+jarvis close browser
+jarvis set reminder
+jarvis reminder
+jarvis i want to set a reminder
+search iron man
+jarvis shopping
+jarvis i want to do shopping
+amazon
+flipkart
+snapdeal
+jarvis bore
+jarvis joke
+jarvis i am getting bored
+jarvis meaning
+jarvis i want to know meaning of a word
+jarvis location
+jarvis tell me my location
+javis calculator
+jarvis start calculator
+jarvis open calculator
+jarvis zero
+jarvis one
+jarvis two
+jarvis three
+jarvis four
+jarvis five
+jarvis six
+jarvis seven
+jarvis eight
+jarvis nine
+jarvis divide
+jarvis multiply
+jarvis addition
+jarvis add
+jarvis subtract
+jarvis equal
+jarvis close calculator
+jarvis exit calculator
+jarvis cmd
+jarvis open cmd
+jarvis start cmd
+jarvis close cmd
+jarvis exit cmd
+yes
+no
+okay
+shut up
+iron man
+dhoni
+sachin tendulkar
+virat kholi
+mahatma gandhi
+narendra modi
+car
+bike
+ball
+bat
+jarvis live score
+shirt
+pant
+t shirt
+home
+password
